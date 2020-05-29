@@ -1,0 +1,15 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="yhk">
+    <words>
+      <w>conv</w>
+      <w>dataloader</w>
+      <w>downsample</w>
+      <w>imgs</w>
+      <w>inplanes</w>
+      <w>maxpool</w>
+      <w>relu</w>
+      <w>resnet</w>
+      <w>torchvision</w>
+    </words>
+  </dictionary>
+</component>
